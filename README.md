@@ -1,1 +1,1 @@
-https://github.com/ilya1981/tests_js/blob/main/.github/workflows/main.yml/badge.svg
+[![tests_js](https://github.com/ilya1981/tests_js/actions/workflows/main.yml/badge.svg)](https://github.com/ilya1981/tests_js/actions/workflows/main.yml)
